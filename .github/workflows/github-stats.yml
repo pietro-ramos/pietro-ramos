@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=pietro-ramos&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFFFFF&locale=pt-br"
+          options: "username=pietro-ramos&layout=donut&langs_count=8&hide=html,css&size_weight=0.3&count_weight=0.7&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFFFFF&locale=pt-br"
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
