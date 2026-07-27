@@ -22,7 +22,7 @@ jobs:
           card: top-langs
           options: "username=pietro-ramos&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFFFFF&locale=pt-br"
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Gerar cartão de estatísticas
@@ -31,7 +31,7 @@ jobs:
           card: stats
           options: "username=pietro-ramos&show_icons=true&include_all_commits=true&hide_title=true&hide=stars&rank_icon=github&bg_color=353D41&border_color=123547&icon_color=EB9326&title_color=EB9326&text_color=FFFFFF&locale=pt-br"
           path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Salvar cartões
