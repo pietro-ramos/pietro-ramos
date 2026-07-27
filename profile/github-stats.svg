@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Estat&#237;sticas do GitHub de Pietro Ramos, Rank: C</title>
-        <desc id="descId">Total de Commits  : 179, Total de PRs: 4, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <title id="titleId">Estat&#237;sticas do GitHub de Pietro Ramos, Rank: C+</title>
+        <desc id="descId">Total de Commits  : 425, Total de PRs: 5, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 226.12602171007094;
+        stroke-dashoffset: 219.50717596417576;
       }
     }
   
@@ -148,7 +148,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >179</text>
+      >425</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -163,7 +163,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >4</text>
+      >5</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
