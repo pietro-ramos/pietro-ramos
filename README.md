@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietro-ramos&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF)
+<div align="center">
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pietro-ramos&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFFFFF&locale=pt-br"
+    alt="Linguagens mais utilizadas"
+  />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietro-ramos&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=pietro-ramos&show_icons=true&include_all_commits=true&hide_title=true&hide=stars&rank_icon=github&bg_color=353D41&border_color=123547&icon_color=EB9326&title_color=EB9326&text_color=FFFFFF&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+</div>
