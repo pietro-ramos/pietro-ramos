@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Pietro Ramos, Rank: C+</title>
-        <desc id="descId">Total de Commits  : 547, Total de PRs: 41, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de Commits  : 547, Total de PRs: 44, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 193.33128852393406;
+        stroke-dashoffset: 191.88147421489643;
       }
     }
   
@@ -170,7 +170,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >41</text>
+      >44</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
